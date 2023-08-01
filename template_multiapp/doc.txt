@@ -1,0 +1,22 @@
+-- Librairie :
+streamlit
+
+pip install streamlit
+ou 
+conda install -c conda-forge streamlit
+
+-- Une fois installer effectuer le test
+streamlit hello
+
+-- Lancement de l'application : 
+streamlit run nom_app.py
+
+
+-- Documentation
+https://docs.streamlit.io/library/get-started
+Pour une application multipage:
+https://docs.streamlit.io/library/get-started/multipage-apps/create-a-multipage-app
+
+-- Creation de table interactive: 
+pip install streamlit-aggrid
+https://towardsdatascience.com/make-dataframes-interactive-in-streamlit-c3d0c4f84ccb
